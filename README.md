@@ -1,1 +1,2 @@
 # Herramientas-Computacionales-IMEC3602
+Mis objetivos principales del curso son: Reforzar mis habilidades de programación, ya que, para mi, lo que aprendí en APO no se aplica a la ingeniería mecánica, por lo cual espero que al final de curso, lo que haya aprendido funcione como base para resolver problemas relevantes a la carrera. Además de esto, espero tener un mejor conocimiento acerca del open source y todo lo relacionado con sistemas de control de versionas, determinando de qué manera se puede utilizar esto para trabajar en colaboración con personas a distancia.
